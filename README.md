@@ -2,4 +2,6 @@
 
 ---
 Experiencia:Estudante
+
+---
 Endereço: XXXXX - Marília - SP
