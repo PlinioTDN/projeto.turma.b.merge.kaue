@@ -1,7 +1,13 @@
 # Kaue Russo
 
 ---
+
+Endereço: XXXXX - Marília - SP
+
+---
+
+
 Experiencia:Estudante
 
 ---
-Endereço: XXXXX - Marília - SP
+
