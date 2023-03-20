@@ -2,7 +2,7 @@
   
 RG: XXXXXX-XXXX-XXX
 ---
-CPF:XXX.XXX.XXX-XX
+CPF: XXX.XXX.XXX-XX
 ---
 
 Endereço: XXXXX - Marília - SP
