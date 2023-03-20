@@ -1,8 +1,8 @@
 # Kaue Russo
   
-RG: XXXXXX-XXXX-XXX
+RG: XX.XXX.XXX-X
 ---
-CPF: XXX.XXX.XXX-XX
+CPF: XXX.XXX.XXX/XX
 ---
 
 Endereço: XXXXX - Marília - SP
